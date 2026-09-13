@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Java / Maven
+upforit-backend/target/
+
+# Environment / secrets
+.env
+.env.*
+*.env
+
+# Logs
+*.log
+
+# Node
+upforit-frontend/node_modules/
+
+# Frontend build files
+upforit-frontend/dist/
+upforit-frontend/build/
+
+# VS Code
+.vscode/
