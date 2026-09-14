@@ -1,4 +1,4 @@
-const API_BASE = "http://localhost:8080/api";
+const API_BASE = "https://upforit.onrender.com/api";
 
 function showLogin() {
     document.getElementById('loginForm').style.display = 'flex';
